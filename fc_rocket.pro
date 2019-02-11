@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/yazhoujiang/Documents/EAGLE/projects/FC_PCB/fc_rocket.brd
 
-Start at      : 00:56:45 (2019/1/20)
-End at        : 00:57:53 (2019/1/20)
-Elapsed time  : 00:01:06
+Start at      : 16:02:23 (2019/2/9)
+End at        : 16:02:38 (2019/2/9)
+Elapsed time  : 00:00:10
 
 Signals       :    26   RoutingGrid: 6 mil  Layers: 2
-Connections   :    56   predefined:  0 ( 0 Vias )
+Connections   :    56   predefined:  55 ( 5 Vias )
 
-Router memory :   1415648
+Router memory :   1856472
 
-Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6 Optimize7 Optimize8 Optimize9Optimize10Optimize11Optimize12
+Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:11  00:00:01  00:00:05  00:00:05  00:00:05  00:00:04  00:00:04  00:00:05  00:00:05  00:00:04  00:00:04  00:00:04  00:00:04  00:00:05
-Number of Ripups  :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
+Time per pass     :  00:00:09  00:00:00  00:00:01  00:00:00  00:00:00  00:00:00
+Number of Ripups  :         0         0         0         0         0         0
+max. Level        :         0         0         0         0         0         0
+max. Total        :         0         0         0         0         0         0
 
-Routed            :        39        56        56        56        56        56        56        56        56        56        56        56        56        56
-Vias              :         0         0        12         9         7         7         7         7         6         5         5         5         5         5
-Resolution        :    69.6 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :         1         1         1         1         1         1
+Vias              :         0         0         0         0         0         0
+Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
-Final             : 100.0% finished
+Final             : 98.2% finished. Polygons may have fallen apart.
